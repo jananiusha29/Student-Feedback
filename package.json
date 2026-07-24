@@ -3,5 +3,8 @@
     "axios": "^1.18.1",
     "express": "^4.22.2",
     "react-router-dom": "^7.18.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
